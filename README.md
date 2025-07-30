@@ -13,7 +13,7 @@
 ![Typescript](https://img.shields.io/static/v1?logo=TypeScript&label=&message=TypeScript&color=fff&logoColor=000&style=flat-square&link=)
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=fff&logoColor=000&style=flat-square&link=)
 
-![Технологии](https://img.shields.io/static/v1?label=&message=Технологии&nbsp;frameworks:&color=555&style=flat-square)
+![Технологии](https://img.shields.io/static/v1?label=&message=Технологии:&color=555&style=flat-square)
 ![Laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=Laravel&color=fff&logoColor=000&style=flat-square&link=)
 ![NestJs](https://img.shields.io/static/v1?logo=nestjs&label=&message=NestJs&color=fff&logoColor=000&style=flat-square&link=)
 ![Nuxt](https://img.shields.io/static/v1?logo=nuxt&label=&message=Nuxt&color=fff&logoColor=000&style=flat-square&link=)
@@ -28,16 +28,20 @@
 ![Redis](https://img.shields.io/static/v1?logo=Redis&label=&message=Redis&color=fff&logoColor=000&style=flat-square&link=)
 
 ![Инструменты](https://img.shields.io/static/v1?label=&message=Инструменты:&color=555&style=flat-square)
-![vscode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=111&logoColor=bf91f3&style=flat-square)
-![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=bf91f3&style=flat-square)
-![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=111&logoColor=bf91f3&style=flat-square)
-![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=bf91f3&style=flat-square)
+![PhpStorm](https://img.shields.io/static/v1?logo=phpstorm&label=&message=PhpStorm&color=fff&logoColor=000&style=flat-square)
+![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=fff&logoColor=000&style=flat-square)
+![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=fff&logoColor=000&style=flat-square)
+
+### Мои работы
+
+<img src="https://sibirdizelsystems.ru/favicon.svg" width="20px" alt="Общество с ограниченной ответственностью «СибирьДизельСистемы»" /> [Общество с ограниченной ответственностью «СибирьДизельСистемы»](https://sibirdizelsystems.ru)
+
+<img src="https://soktur.ru/img/logoRed.svg" width="20px" alt="Самый сок" /> [Самый сок](https://sibirdizelsystems.ru)
 
 
+### Статистика
 
-<div>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indotcode&show_icons=true&locale=en&layout=compact" alt="indotcode" /></p>
-</div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=indotcode&show_icons=true&locale=en&layout=compact" alt="indotcode" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=indotcode&show_icons=true&locale=en" alt="indotcode" /></p>
 
