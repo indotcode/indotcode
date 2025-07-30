@@ -1,10 +1,5 @@
 ## Всем привет 👋
 
-
-**indotcode/indotcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 В настояшее время работаю ООО "CибТрейд"
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
