@@ -40,8 +40,6 @@
 
 <img src="https://sanremo-nsk.ru/favicon.svg" width="20px" alt="Ремонт квартир в Новосибирске СанРемО-НСК" /> [Ремонт квартир в Новосибирске СанРемО-НСК](https://sanremo-nsk.ru)
 
-<img src="https://sanremo-nsk.ru/favicon.svg" width="20px" alt="Ремонт квартир в Новосибирске СанРемО-НСК" /> [Ремонт квартир в Новосибирске СанРемО-НСК](https://sanremo-nsk.ru)
-
 <img src="https://soktur.ru/img/logoRed.svg" width="20px" alt="Самый сок" /> [Самый сок](https://sibirdizelsystems.ru)
 
 <img src="https://radiorio.ru/favicon.svg" width="20px" alt="Радио РИО Милицейская волна 107.9 FM гор. Осинники" /> [Радио РИО Милицейская волна 107.9 FM гор. Осинники](https://radiorio.ru)
