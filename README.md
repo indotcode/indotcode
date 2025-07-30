@@ -24,7 +24,6 @@
 ![Vue](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue&color=fff&logoColor=000&style=flat-square&link=)
 ![NuxtJs](https://img.shields.io/static/v1?logo=nuxt&label=&message=NuxtJs&color=fff&logoColor=000&style=flat-square&link=)
 
-
 ![Databases](https://img.shields.io/static/v1?label=&message=Databases:&color=555&style=flat-square)
 ![MySql](https://img.shields.io/static/v1?logo=mysql&label=&message=MySql&color=fff&logoColor=000&style=flat-square&link=)
 ![Mongodb](https://img.shields.io/static/v1?logo=Mongodb&label=&message=Mongodb&color=fff&logoColor=000&style=flat-square&link=)
