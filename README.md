@@ -8,12 +8,12 @@
 
 ## Технологии, которые я использую очень часто
 
-![Языки](https://img.shields.io/static/v1?label=&message=Языки:&color=555&style=flat-square)
+![Языки](https://img.shields.io/static/v1?label=&message=Языки:&color=00FF00&style=flat-square)
 ![PHP](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=fff&logoColor=000&style=flat-square&link=)
 ![Typescript](https://img.shields.io/static/v1?logo=TypeScript&label=&message=TypeScript&color=fff&logoColor=000&style=flat-square&link=)
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=fff&logoColor=000&style=flat-square&link=)
 
-![Технологии](https://img.shields.io/static/v1?label=&message=Технологии:&color=555&style=flat-square)
+![Технологии](https://img.shields.io/static/v1?label=&message=Технологии:&color=4169E1&style=flat-square)
 ![Laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=Laravel&color=fff&logoColor=000&style=flat-square&link=)
 ![WordPress](https://img.shields.io/static/v1?logo=wordpress&label=&message=WordPress&color=fff&logoColor=000&style=flat-square&link=)
 ![NestJs](https://img.shields.io/static/v1?logo=nestjs&label=&message=NestJs&color=fff&logoColor=000&style=flat-square&link=)
@@ -22,13 +22,13 @@
 ![Vue](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue&color=fff&logoColor=000&style=flat-square&link=)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=fff&logoColor=000&style=flat-square&link=)
 
-![Базы данных](https://img.shields.io/static/v1?label=&message=Базы&nbsp;данных:&color=555&style=flat-square)
+![Базы данных](https://img.shields.io/static/v1?label=&message=Базы&nbsp;данных:&color=800080&style=flat-square)
 ![MySql](https://img.shields.io/static/v1?logo=mysql&label=&message=MySql&color=fff&logoColor=000&style=flat-square&link=)
 ![Mongodb](https://img.shields.io/static/v1?logo=Mongodb&label=&message=Mongodb&color=fff&logoColor=000&style=flat-square&link=)
 ![Postgresql](https://img.shields.io/static/v1?logo=Postgresql&label=&message=Postgresql&color=fff&logoColor=000&style=flat-square&link=)
 ![Redis](https://img.shields.io/static/v1?logo=Redis&label=&message=Redis&color=fff&logoColor=000&style=flat-square&link=)
 
-![Инструменты](https://img.shields.io/static/v1?label=&message=Инструменты:&color=555&style=flat-square)
+![Инструменты](https://img.shields.io/static/v1?label=&message=Инструменты:&color=800000&style=flat-square)
 ![PhpStorm](https://img.shields.io/static/v1?logo=phpstorm&label=&message=PhpStorm&color=fff&logoColor=000&style=flat-square)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=fff&logoColor=000&style=flat-square)
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=fff&logoColor=000&style=flat-square)
