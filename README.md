@@ -23,6 +23,7 @@
 ![Технологии](https://img.shields.io/static/v1?label=&message=Технологии:&color=4169E1&style=flat-square)
 ![Laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=Laravel&color=fff&logoColor=000&style=flat-square&link=)
 ![WordPress](https://img.shields.io/static/v1?logo=wordpress&label=&message=WordPress&color=fff&logoColor=000&style=flat-square&link=)
+![Django](https://img.shields.io/static/v1?logo=django&label=&message=Django&color=fff&logoColor=000&style=flat-square&link=)
 ![NestJs](https://img.shields.io/static/v1?logo=nestjs&label=&message=NestJs&color=fff&logoColor=000&style=flat-square&link=)
 ![Nuxt](https://img.shields.io/static/v1?logo=nuxt&label=&message=Nuxt&color=fff&logoColor=000&style=flat-square&link=)
 ![Strapi.io](https://img.shields.io/static/v1?logo=strapi&label=&message=Strapi&color=fff&logoColor=000&style=flat-square&link=)
