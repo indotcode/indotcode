@@ -44,6 +44,7 @@
 ![PhpStorm](https://img.shields.io/static/v1?logo=phpstorm&label=&message=PhpStorm&color=fff&logoColor=000&style=flat-square)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=fff&logoColor=000&style=flat-square)
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=fff&logoColor=000&style=flat-square)
+![Figma](https://img.shields.io/static/v1?logo=Figma&label=&message=Figma&color=fff&logoColor=000&style=flat-square)
 
 ### Мои работы
 
