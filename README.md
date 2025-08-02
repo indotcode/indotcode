@@ -21,6 +21,7 @@
 ![Strapi.io](https://img.shields.io/static/v1?logo=strapi&label=&message=Strapi&color=fff&logoColor=000&style=flat-square&link=)
 ![Vue](https://img.shields.io/static/v1?logo=vue.js&label=&message=Vue&color=fff&logoColor=000&style=flat-square&link=)
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=fff&logoColor=000&style=flat-square&link=)
+![Socket.io](https://img.shields.io/static/v1?logo=socket&label=&message=Socket.io&color=fff&logoColor=000&style=flat-square&link=)
 ![NacoDb](https://img.shields.io/static/v1?logo=NacoDb&label=&message=NacoDb&color=fff&logoColor=000&style=flat-square&link=)
 
 ![Базы данных](https://img.shields.io/static/v1?label=&message=Базы&nbsp;данных:&color=800080&style=flat-square)
