@@ -12,6 +12,13 @@
 ![PHP](https://img.shields.io/static/v1?logo=php&label=&message=PHP&color=fff&logoColor=000&style=flat-square&link=)
 ![Typescript](https://img.shields.io/static/v1?logo=TypeScript&label=&message=TypeScript&color=fff&logoColor=000&style=flat-square&link=)
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=JavaScript&color=fff&logoColor=000&style=flat-square&link=)
+![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=fff&logoColor=000&style=flat-square&link=)
+![C#](https://img.shields.io/static/v1?logo=sharp&label=&message=C&nbsp;Sharp&color=fff&logoColor=000&style=flat-square&link=)
+![Css](https://img.shields.io/static/v1?logo=css&label=&message=Css&color=fff&logoColor=000&style=flat-square&link=)
+![Css](https://img.shields.io/static/v1?logo=css&label=&message=Css&color=fff&logoColor=000&style=flat-square&link=)
+![Sass](https://img.shields.io/static/v1?logo=sass&label=&message=Sass&color=fff&logoColor=000&style=flat-square&link=)
+![Less](https://img.shields.io/static/v1?logo=less&label=&message=Less&color=fff&logoColor=000&style=flat-square&link=)
+![Xml](https://img.shields.io/static/v1?logo=xml&label=&message=Xml&color=fff&logoColor=000&style=flat-square&link=)
 
 ![Технологии](https://img.shields.io/static/v1?label=&message=Технологии:&color=4169E1&style=flat-square)
 ![Laravel](https://img.shields.io/static/v1?logo=laravel&label=&message=Laravel&color=fff&logoColor=000&style=flat-square&link=)
