@@ -54,7 +54,7 @@
 
 <img src="https://soktur.ru/img/logoRed.svg" width="20px" alt="Самый сок" /> [Самый сок](https://sibirdizelsystems.ru)
 
-<!--<img src="https://radiorio.ru/favicon.svg" width="20px" alt="Радио РИО Милицейская волна 107.9 FM гор. Осинники" /> [Радио РИО Милицейская волна 107.9 FM гор. Осинники](https://radiorio.ru)-->
+//<img src="https://radiorio.ru/favicon.svg" width="20px" alt="Радио РИО Милицейская волна 107.9 FM гор. Осинники" /> [Радио РИО Милицейская волна 107.9 FM гор. Осинники](https://radiorio.ru)
 
 <img src="https://oboink.ru/wp-content/themes/oboi-new/assets/img/logo-m.svg" width="20px" alt="Обои в Новокузнецке. Купить фотообои в Новокузнецке" /> [Обои в Новокузнецке. Купить фотообои в Новокузнецке](https://oboink.ru)
 
